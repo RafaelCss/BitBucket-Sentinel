@@ -1,0 +1,6 @@
+@Bitbucket_PR_Sentinel_HostAddress = http://localhost:5049
+
+GET {{Bitbucket_PR_Sentinel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
